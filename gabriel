@@ -1,0 +1,28 @@
+<html>
+    <head>
+         <title> aula dia 01/03    </title>
+    </head>
+
+<body>
+
+<details>
+       <summary> Titulo do item   </summary>
+       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quisquam veniam quos tempora laudantium eius reiciendis vero, nobis, dicta alias ratione voluptate deserunt sequi quae nostrum animi maxime quo repudiandae!</p>
+</details>
+
+<fieldset>
+    <legend>Titulo do item</legend>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium laboriosam reprehenderit voluptatum, a quaerat illo id temporibus necessitatibus, iure assumenda consectetur dolorem modi similique culpa facilis harum inventore dolore cum?
+
+</fieldset>
+
+<progress value="50" max="100"></progress>
+
+</body>
+
+
+
+
+
+
+</html>

@@ -1,0 +1,51 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <table border="1">
+     
+            
+        <tr>
+            
+            <td><b> Marca:</b></td>
+            <td><b> Modelo:</b> </td>
+            <td><b> Ano:</b></td>
+            <td><b> Valor:</b></td>
+        </tr>
+    
+        <tr>
+          <td>Volkswagem</td>
+          <td>Golf</td>
+          <td>2009</td>
+          <td>R$38.500 </td>
+    
+        </tr>
+    
+        <tr>
+            <td> Fiat</td>
+            <td>Palio</td>
+            <td>2010</td>
+            <td>R$19.700</td>
+        </tr>
+
+        <tr>
+            <td> Honda</td>
+            <td>Civic</td>
+            <td>2012</td>
+            <td>R$61.500</td>
+        </tr>
+        <tr>
+            <td colspan="5" > O Melhor Preço Da Região</td>
+        </tr>
+     </table>
+    
+
+
+</body>
+</html>

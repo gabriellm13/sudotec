@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<h1>Matemática</h1>
+
+<img src="https://fdr.com.br/wp-content/uploads/2020/09/matematica-1200x1200.jpg" width="300" height="250" alt="logo do html">
+<br>
+
+<label>
+    3 + 3=
+</label>
+<input type="text">
+<br> <br>  
+<label>
+10 / 3=
+</label>
+<input type="text">
+
+<br><br>
+<label>
+    5 * 2=
+</label>
+<input type="text">
+ 
+<p> Essa tarefa foi dificil?</p>
+
+<input type="range">
+
+</body>
+</html>
+

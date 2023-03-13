@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <fieldset>
+ <h4>Opinião Quanto A Utilização</h4>
+
+ <img src="http://editoraunesp.com.br/blog/icone/dia-mundial-da-lingua-portuguesa-momento-para-se-aperfeicoar-no-idioma" alt="logo do html">
+ <br>
+
+ <label>Na Frase: "Eu Sou Bonito" O Sujeito é</label>
+<br>
+<INput type="radio">
+    <label>Brad Pitt</label>
+<br>
+    <INput type="radio">
+        <label>João Da Padaria</label>
+<br>
+        <INput type="radio">
+            <label>Você Mesmo</label>
+<br>
+
+            <INput type="radio">
+                <label>Meus Pais</label>
+<br>
+
+           <INput type="radio">
+            <label>Eu</label>
+<br><br>
+
+<label>Complete A Frase: "Filho De Peixe, Peixinho   "</label>
+<br>
+
+<input type="checkbox">
+<label>É</label>
+<br>
+
+<input type="checkbox">
+<label>Tem</label>
+<br>
+
+<input type="checkbox">
+<label>Verde</label>
+<br>
+
+<input type="checkbox">
+<label>Boinito</label>
+<br>
+
+<input type="checkbox">
+<label>Maria</label>
+
+</fieldset>  
+
+<fieldset>
+
+
+<label>De Uma Nota Para Sua Professora:</label>
+
+<br><br>
+
+
+<label>Sua Professora Explica Bem A Matéria? </label>
+<br>
+
+<input type="range">
+
+
+</fieldset>
+
+
+<fieldset>
+
+<label>Opiniões</label>
+<br><br>
+
+<label>Digite Sua Opinião Sobre A Disciplina</label>
+<br>
+<textarea> </textarea>
+
+
+
+
+
+
+
+</fieldset>
+
+
+
+</body>
+</html>

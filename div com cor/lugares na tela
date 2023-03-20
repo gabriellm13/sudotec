@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     
+   
+    <!-- div= container de conteudo left ou right -->
+    <div style="background-color: red; width: 25%; float:right ; ">
+     <p> voluptatum a assumenda dolorum inventore sed. lo</p>
+     </div>
+ 
+   <!-- div= container de conteudo-->
+   <div style="background-color: blue; width: 25%; float:right;">
+    <p> voluptatum a assumenda dolorum inventore sed. lo</p>
+</div>
+
+   <!-- div= container de conteudo-->
+   <div style="background-color: purple; width: 25%; float:right;">
+    <p> voluptatum a assumenda dolorum inventore sed. lo</p>
+</div>
+
+   
+   
+   
+    <!-- div= container de conteudo-->
+    <div style="background-color: green; width: 25%; float: right;">
+        <p> voluptatum a assumenda dolorum inventore sed. lo</p>
+    </div>
+
+</body>
+</html>

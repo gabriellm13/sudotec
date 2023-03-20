@@ -1,2 +1,6 @@
 <!--tipos de borda: dotted , dashed, solid, double, groove, ridge, inset, outset --/>
-
+ usando border:
+<!-- div= container de conteudo left ou right -->
+<div style="background-color: red; width: 25%; border:exemplo inset, outset, solid  ; ">
+    <p> voluptatum a assumenda dolorum inventore sed. lo</p>
+    </div>

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=], initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<fieldset> <DEtails><SUmmary>H1 A H6</SUmmary></DEtails></fieldset>
+<br>
+<h1>H1</h1>
+<br>
+<h2>H2</h2>
+<br>
+<h3>H3</h3>
+<br>
+<h4>H4</h4>
+<br>
+<h5>H5</h5>
+<br>
+<h6>H6</h6>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h1>Cadastrar Pessoa</h1>
+<br>
+
+<label>
+   Nome:
+</label>
+<input type="text">
+<br><br>
+
+<label>
+    Data de Nascimento:
+</label>
+<input type="date">
+<br><br>
+
+<label>
+    CPF:
+</label>
+<input type="text">
+<br><br>
+
+<label>
+    E-mail:
+</label>
+<input type="text">
+<br><br>
+
+<label>
+    Cor favorita:
+</label>
+<input type="color">
+<br><br>
+
+<label>
+    Foto:
+</label>
+<input type="file">
+<br><br>
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+ 
+   
+
+<table border="1"  style="width: 25%;">
+
+    
+<tr>
+    <td colspan="2">   <b>Direcção</b>
+</tr>
+
+<tr>
+    <td>Diretor</td>
+    <td>diretor@utfpr.edu.br</td>
+</tr>
+
+ <tr>
+    <td colspan="2">          <b>  Professores  </b>
+ </tr> 
+
+ <tr>
+
+   <td>professor1</td>
+   <td>professor@utfpr.edu.br</td>
+
+ </tr>
+
+
+</table>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div style="float: left;"> <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/5960880-mao-desenhado-simples-desenho-preto-silhueta-de-uma-pequena-flor-isolada-em-um-fundo-branco-elemento-da-natureza-planta-vetor.jpg" style="width:25% ;" alt="">
+<div style="float:left;"> </div><h1> <b>SONETO CV</b> </h1><br> 
+    <b> <h3>Willian Shakespeare</h3></b> 
+    <br><br>
+   <div style="float: left;" ><h3>não chame o meu amor de idolatria <br>
+        Nem  de idoso realce a quem eu amo,<br>
+        Pois todo o meu cantar a um só se alia,<br>
+        E de uma só maneira eu o proclamo.  </div>
+      ...  </h3>
+      <br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+      <div style="width: 25%;">
+      <div style="float: left; background-color: pink ;">
+         <h3> topo left </h3> </div>
+         <div style="float: right; background-color: green;"><h3> topo rigth</h3> </div>
+         <br><br>
+
+         <div style="background-color: yellow;width:100%"> <h3>  Centro.</h3> </div>
+        
+      
+
+
+
+
+
+
+
+
+
+</div>
+
+        
+   
+
+
+
+
+
+
+
+</body>
+</html>

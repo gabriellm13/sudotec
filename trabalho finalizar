@@ -113,7 +113,11 @@
 
          <div style="background-color: yellow;width:100%"> <h3>  Centro.</h3> </div>
         
-      
+      </div>
+        <div style="width: 25%;">
+            <div style="float: left; background-color: rgb(57, 196, 221) ;">
+               <h3> topo left </h3> </div>
+               <div style="float: right; background-color: rgba(208, 216, 208, 0.788);"><h3> topo rigth</h3> </div>
 
 
 
@@ -123,7 +127,7 @@
 
 
 
-</div>
+
 
         
    

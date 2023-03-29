@@ -118,22 +118,37 @@
             <div style="float: left; background-color: rgb(57, 196, 221) ;">
                <h3> topo left </h3> </div>
                <div style="float: right; background-color: rgba(208, 216, 208, 0.788);"><h3> topo rigth</h3> </div>
+<br><Br><br><Br><Br><br><br>
 
+<table border="1"  style="width: 25%;">
+                <tr>
+                    <td colspan="2"    <b></b>
+                        
+                        <td colspan="2" <b>Dados</b></td>
+                </tr>
+               
+    
 
-
-
-
-
-
-
-
-
-
+     <tr>
+        <td>Turma</td>
+        <td>A</td>
+        <td>homens</td>
+        <td>meninas</td>
+        </tr>
         
-   
-
-
-
+        
+<tr>
+    <td>Turma </td>
+    <td>b</td>
+    <td>21</td>
+    <td>3</td>
+</tr>
+<tr>
+    
+ <td colspan="2" <b>Total</b>
+    <td>86</td>
+    <td>4</td>
+</tr>
 
 
 

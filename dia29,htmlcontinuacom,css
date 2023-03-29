@@ -1,0 +1,25 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="estilo.css"> </head>
+
+
+
+   <body> 
+
+      <div id="id1" >
+        <div id="cabecalho"> 
+             <img  id="imagem"  src="https://st.depositphotos.com/1609126/3723/i/600/depositphotos_37238347-stock-photo-brazil-flag.jpg"
+             <h1>Bem Vindos</h1> 
+            </div>
+        <div id="Menu">
+        <ul>
+            <li>home</li>
+            <li>noticias</li>
+            <li>fotos</li>
+        </ul>  
+    </div>
+        <div id="area">Area</div>
+      </div>
+   </body>
+</html>

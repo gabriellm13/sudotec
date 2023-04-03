@@ -1,0 +1,52 @@
+#id1{
+    margin:0 auto;
+    width: 900px;
+    
+}
+
+#header{
+    height: 140px;
+    width: 900px;
+    background-color: rgb(3, 104, 16);
+    color: white;
+    font-size: 3em;
+    text-align:center
+    
+
+}
+
+
+#sidebar{
+    height: 450px;
+    width: 270px;
+    background-color: rgb(3, 104, 16);
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    float: left;
+    margin-top: 20px;
+}
+
+
+#footer{
+    height: 70px;
+    width: 900px;
+    background-color: rgb(3, 104, 16);
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 495px;
+    
+}
+
+
+#content{
+    height: 450px;
+    width: 600px;
+    background-color: rgb(3, 104, 16);
+    color: white;
+    font-size: 3em;
+    text-align: center;  
+    float: right;
+    margin-top: 20px;
+}

@@ -1,0 +1,46 @@
+
+
+
+1) O que é uma constante? de dois exemplos.
+   algo que não muda, sempre repete a mesma coisa.
+
+2) O que é uma variável? de dois exemplos para cada tipo de dado. 
+   um comando que sempre varia o resultado
+     
+3)      
+salário        abono         sainovo
+ 600,00       60,00            10%
+ 350,00       35,00            10%
+4)       
+ salario      ir      salliq    expressão              v ou f
+ 100,00      0,00     100        (salliq>=100,00)        v
+ 200,00     10,00     190,00       (salliq<190,00)       f
+ 300,00     15,00     285,00      salliq=salario-ir      v
+  
+5)sabendo que a=3, b=7 e c=4, informe se as expressões abaixo são verdadeiros ou falsos.
+a) (a+c)>b    ( f )
+b) b>=(a+2)   ( v )
+c) c=(b-a)    ( v )
+d) (b+a)<=c   ( f )
+e) (c+a)>b    ( f )
+
+
+site:  online gdb 
+//linguagem c-
+
+#include <stdio.h>  // biblioteca 
+
+int main() {//linguagem c
+    
+    int quantia1 = 84 ;
+    int quantia2 = 22 ; // numero inteiro 
+    
+    
+      printf("idade = %d", quantia1+quantia2);
+
+    
+}
+
+
+
+   

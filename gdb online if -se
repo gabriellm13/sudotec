@@ -1,0 +1,15 @@
+#include <stdio.h> // ESTRUTURA IF - SE
+int main(){
+ 
+     int idade = 18 ; 
+     if(idade > 18 ){
+           printf("maior de idade");
+           } 
+           else if ( idade == 18 )
+     {
+           printf("tem 18 anos ") ;
+     }
+     else { 
+         printf("menor de idade");
+     }
+}

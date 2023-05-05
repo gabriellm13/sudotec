@@ -1,0 +1,8 @@
+const preçocombustivel = 5.00;
+const kmporlitros = 10;
+const distanciaemkm = 100;
+
+const litrosconsumidos = distanciaemkm / kmporlitros;
+
+const valorgasto = litrosconsumidos * preçocombustivel;
+console.log(valorgasto);
